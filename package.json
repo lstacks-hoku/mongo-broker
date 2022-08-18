@@ -1,0 +1,25 @@
+{
+  "name": "mongo-broker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./dist/index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://lstacks-hoku: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@github.com/lstacks-hoku/mongo-broker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lstacks-hoku/mongo-broker/issues"
+  },
+  "homepage": "https://github.com/lstacks-hoku/mongo-broker#readme",
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  },
+  "dependencies": {
+    "mongoose": "^6.5.1"
+  }
+}
